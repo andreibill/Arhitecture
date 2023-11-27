@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T11:12:39.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pa8_HweGgEMWlkb8I6Bi" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T11:17:06.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WnlQHFUI2WD2mQcCwr8H" version="22.1.4" type="github">
   <diagram name="Pagină-1" id="4xMoVaFx2DnquvAbO4xz">
     <mxGraphModel dx="3288" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="LQzyUKZl5z_uOltu3v29-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LQzyUKZl5z_uOltu3v29-35" target="LQzyUKZl5z_uOltu3v29-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LQzyUKZl5z_uOltu3v29-35" value="Activare cont" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="LQzyUKZl5z_uOltu3v29-35" value="Activare cont/rol&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="640" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LQzyUKZl5z_uOltu3v29-38" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Inregistrare&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=250;height=90;" parent="1" vertex="1">
